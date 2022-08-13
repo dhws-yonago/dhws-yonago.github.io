@@ -16,8 +16,7 @@ $pc-width: 768px;
   --color-white-a: rgb( 255, 255, 255, .8);
   --color-gray: rgb( 180, 180, 180);
   --color-gray-a: rgba( 180, 180, 180, .8);
-  --color-gray-210: rgb( 210, 210, 210);
-  --color-orange-10: hsl(24, 70%, 10%);
+  --color-gray-240: rgb( 240, 240, 240);
   --color-orange-20: hsl(24, 70%, 20%);
   --color-orange-40: hsl(24, 70%, 40%);
   --color-orange-60: hsl(24, 70%, 60%);
@@ -25,7 +24,7 @@ $pc-width: 768px;
   --color-main: var(--color-black);
   --color-bg: var(--color-white);
   --color-bg-a: var(--color-white-a);
-  --color-bg-content: var(--color-gray-210);
+  --color-bg-content: var(--color-gray-240);
   --color-border: var(--color-gray);
   --color-border-a: var(--color-gray-a);
   --color-brand: var(--color-orange-40);
@@ -96,6 +95,7 @@ img {
   margin: 0 0 calc(8px * 10);
   .wrap {
     background: var(--color-bg-content);
+    border-radius: 8px;
     padding: calc(8px * 2);
   }
 }
@@ -126,7 +126,7 @@ img {
           border-radius: 4px;
         }
         &:hover {
-          background: var(--color-brand);
+          background: var(--color-brand-light);
           opacity: .8;
         }
         &__date {
