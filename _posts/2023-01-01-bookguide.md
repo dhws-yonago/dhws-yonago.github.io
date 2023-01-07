@@ -18,14 +18,16 @@ tags:
 - [Webデザイン](#webデザイン)
   - [Webデザイン良質見本帳 第二版](#webデザイン良質見本帳-第二版)
   - [Adobe XDではじめるWebデザイン\&プロトタイピング](#adobe-xdではじめるwebデザインプロトタイピング)
+  - [初心者からちゃんとしたプロになる Adobe XD基礎入門](#初心者からちゃんとしたプロになる-adobe-xd基礎入門)
+  - [豊富な作例で学ぶ Adobe XD Webデザイン入門](#豊富な作例で学ぶ-adobe-xd-webデザイン入門)
 - [HTML \& CSS](#html--css)
   - [初心者からちゃんとしたプロになる HTML+CSS標準入門](#初心者からちゃんとしたプロになる-htmlcss標準入門)
   - [HTML5 \& CSS3 デザインレシピ集](#html5--css3-デザインレシピ集)
   - [HTML5\&CSS3デザイン 現場の新標準ガイド](#html5css3デザイン-現場の新標準ガイド)
   - [教科書では教えてくれないHTML\&CSS](#教科書では教えてくれないhtmlcss)
-  - [Web制作者のためのCSS設計の教科書](#web制作者のためのcss設計の教科書)
-  - [Web制作者のためのSassの教科書](#web制作者のためのsassの教科書)
-  - [CSS設計完全ガイド](#css設計完全ガイド)
+  - [ざっくりつかむ CSS設計](#ざっくりつかむ-css設計)
+  - [現場のプロから学ぶ CSSコーディングバイブル](#現場のプロから学ぶ-cssコーディングバイブル)
+  - [Every Layout-モジュラーなレスポンシブデザインを実現するCSS設計論](#every-layout-モジュラーなレスポンシブデザインを実現するcss設計論)
 - [JavaScript](#javascript)
   - [スラスラ読める JavaScript ふりがなプログラミング](#スラスラ読める-javascript-ふりがなプログラミング)
   - [動くWebデザインアイディア帳](#動くwebデザインアイディア帳)
@@ -35,6 +37,7 @@ tags:
   - [世界一わかりやすいWordPress 導入とサイト制作の教科書［改訂2版］](#世界一わかりやすいwordpress-導入とサイト制作の教科書改訂2版)
   - [WordPressユーザーのためのPHP入門 はじめから、ていねいに](#wordpressユーザーのためのphp入門-はじめからていねいに)
   - [WordPressデザインレシピ集](#wordpressデザインレシピ集)
+  - [ゼロから学ぶ はじめてのWordPress](#ゼロから学ぶ-はじめてのwordpress)
 - [その他](#その他)
   - [わかばちゃんと学ぶ Googleアナリティク](#わかばちゃんと学ぶ-googleアナリティク)
 
@@ -127,6 +130,29 @@ Webのデザインの制作サイドの学習に特化した一冊です。
 Webのデザイン制作に特化したツール、Adobe XDの教科書。  
 現場ではこちらのツールに移行しつつあるので気になる方はぜひ一読しましょう。  
 
+### 初心者からちゃんとしたプロになる Adobe XD基礎入門
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=syabu9190c-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B09GFH8F6Z&linkId=b06b9a72b6353e707ebf218de64d0b24"></iframe>
+
+- 卒制・中間でデザインを作る人向け
+- 著者: 相原 典佳, 沖 良矢, 濱野 将
+- スタジオ蔵書: 有
+
+初心者からちゃんとしたプロになるシリーズのAdobe XD編。  
+他の書籍ではデザインが完成したところで終わっていることが多いですが、その先のコーディングでXDがどのように使われるかまで書いてあります。  
+コーダーを目指す方にもオススメです。  
+
+### 豊富な作例で学ぶ Adobe XD Webデザイン入門
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=syabu9190c-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B097XH3ZH8&linkId=521581e03c037d7cd5f674122926eb97"></iframe>
+
+- 卒制・中間でデザインを作る人向け
+- 著者: 池原 健治, 井斉 花織, 佐々木 雄平, 佐藤 修, 田中 由花
+- スタジオ蔵書: 有
+
+とにかく作例が豊富なAdobe XDの入門書。  
+作りたいサイトのジャンルによってどういった機能が便利なのか、非常にわかりやすくなっています。  
+
 ## HTML & CSS
 
 ### 初心者からちゃんとしたプロになる HTML+CSS標準入門
@@ -176,39 +202,39 @@ HTMLのコーディングについてよりランクアップしたい方は必�
 HTMLやCSSをゼロから書く際にどこから手をつけるか非常に参考になります。  
 またコーディング・デザインのトレンドが学べるコラムも必読です。  
 
-### Web制作者のためのCSS設計の教科書
+### ざっくりつかむ CSS設計
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=syabu9190c-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4844336355&linkId=1d363c0dbaa31e9da5081fa37353bb10"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=syabu9190c-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4839977666&linkId=a547cbaf17b8b3445327b56182f7937e"></iframe>
 
 - 2～3ヵ月目の人向け
-- 著者: 谷 拓樹
+- 著者: 高津戸 壮
 - スタジオ蔵書: 有
 
 CSSの書き方で迷った方にオススメの一冊。
-命名ルールや、どのように設計したら扱いやすくなるのかが詳しく解説されています。
-チーム制作などをやっていきたい人は必読の一冊。
+動画に出てくるBEM(Block Element Modifier)ってなんで広く使われてるの？  
+どんなふうに書いたら修正しても崩れないCSSになるのなど、ノウハウ満載です。  
 
-### Web制作者のためのSassの教科書
+### 現場のプロから学ぶ CSSコーディングバイブル
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=syabu9190c-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4295002356&linkId=b9097bd127378c0335dce75c8722cea8"></iframe>
-
-- 2～3ヵ月目の人向け
-- 著者: 平澤 隆, 森田 壮
-- スタジオ蔵書: 有
-
-CSSをより便利にわかりやすく書けるSass(Scss)の教科書。  
-現場で幅広く使われており、より効率的にコーディングがしたい人は要チェックです。  
-
-### CSS設計完全ガイド
-
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=syabu9190c-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=429711173X&linkId=980e09f0e61b23580544cd77cd7e2176"></iframe>
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=syabu9190c-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4839974829&linkId=0ccca56c000f8734495623297dfa3ae6"></iframe>
 
 - 2～3ヵ月目の人向け
-- 著者: 半田 惇志
+- 著者: 田村 章吾
 - スタジオ蔵書: 有
 
-CSS設計の2020年現在では完全版といえる一冊。  
-設計の解説以外にもCSSモジュールの作例などもあり、参考にしたい方にもオススメ。  
+現場の CSS ノウハウが学べる本になっています。  
+CSS の基礎から設計、さらにはサンプルを通した実装例など充実した内容となっています。
+
+### Every Layout-モジュラーなレスポンシブデザインを実現するCSS設計論
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=syabu9190c-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=486246517X&linkId=b0512f36fe621eeaf90c8eb84e551ff0"></iframe>
+
+- CSSの設計を極めたい人向け
+- 著者: ヘイドン・ピカリング, アンディ・ベル, 安田 祐平, 横内 宏樹
+- スタジオ蔵書: 有
+
+CSS設計を極めるならこれ!  
+CSSの特性を活かした再利用性の高い効率的な設計をしたい場合は読んでおくと良いです。  
 
 ## JavaScript
 
@@ -292,6 +318,17 @@ WordPressとPHPを一挙両得で学べる一冊。
 
 WordPressをやりたいことから逆引きするレシピ本です。  
 WordPressに慣れてきて、色々試してみるときにかたわらにあると役に立ちます。  
+
+### ゼロから学ぶ はじめてのWordPress
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=syabu9190c-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4815615225&linkId=39300ec533dec69a19e01a9215343e9c"></iframe>
+
+- WP受講の人向け
+- 著者: 泰道 ゆりか
+- スタジオ蔵書: 有
+
+WordPressのサイトをノーコードで製作することに的をしぼった一冊。  
+テーマやプラグイン、豊富な編集機能をフルに使ってコードを書かずにサイトを製作できます。  
 
 ## その他
 
