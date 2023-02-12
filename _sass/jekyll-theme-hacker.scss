@@ -200,13 +200,16 @@ img {
   h6 {
     font-size: 1.2em;
   }
-  * + h1,
-  * + h2,
-  * + h3,
+  * + h2 {
+    margin-top: calc(8px * 8);
+  }
+  * + h3 {
+    margin-top: calc(8px * 6);
+  }
   * + h4,
   * + h5,
   * + h6 {
-    margin-top: calc(8px * 8);
+    margin-top: calc(8px * 4);
   }
   blockquote {
     padding-left: .75em;
