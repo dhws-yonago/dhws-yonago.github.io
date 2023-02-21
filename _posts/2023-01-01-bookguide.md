@@ -16,6 +16,7 @@ tags:
 - [Web 制作](#web-制作)
   - [わかばちゃんと学ぶ Web サイト制作の基本](#わかばちゃんと学ぶ-web-サイト制作の基本)
   - [初心者からちゃんとしたプロになる Web デザイン基礎入門](#初心者からちゃんとしたプロになる-web-デザイン基礎入門)
+  - [これだけで基本がしっかり身につく HTML/CSS \& Webデザイン1冊目の本](#これだけで基本がしっかり身につく-htmlcss--webデザイン1冊目の本)
   - [1 冊ですべて身につく HTML \& CSS と Web デザイン入門講座](#1-冊ですべて身につく-html--css-と-web-デザイン入門講座)
   - [この一冊で全部わかる Web 制作と運用の基本](#この一冊で全部わかる-web-制作と運用の基本)
 - [Web デザイン](#web-デザイン)
@@ -40,6 +41,7 @@ tags:
   - [動く Web デザインアイディア帳](#動く-web-デザインアイディア帳)
   - [動く Web デザインアイディア帳 実践編](#動く-web-デザインアイディア帳-実践編)
   - [JavaScript コードレシピ集](#javascript-コードレシピ集)
+  - [JavaScript 本格入門 \[改訂 3 版\]](#javascript-本格入門-改訂-3-版)
 - [WordPress \& PHP](#wordpress--php)
   - [世界一わかりやすい WordPress 導入とサイト制作の教科書［改訂 2 版］](#世界一わかりやすい-wordpress-導入とサイト制作の教科書改訂-2-版)
   - [WordPress ユーザーのための PHP 入門 はじめから、ていねいに](#wordpress-ユーザーのための-php-入門-はじめからていねいに)
@@ -87,13 +89,24 @@ Web デザインの基礎を丁寧に噛み砕いて説明している本。
 デジタルハリウッドの映像教材でおなじみの栗谷先生も執筆に参加されています。  
 先に紹介したわかばちゃんを読んで、理解をもっと深めたいならこの 1 冊。
 
+### これだけで基本がしっかり身につく HTML/CSS & Webデザイン1冊目の本
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=syabu9190c-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4798170119&linkId=3f56671acb5e7ede337bc290f1808c6a"></iframe>
+
+- すべての Web 受講生向け
+- 著者: Capybara Design (竹内 直人, 竹内 瑠美)
+- STUDIO 蔵書: 有
+
+4 つのサンプルサイトを作りながらモダンな Web コーディングが学べる 1 冊。  
+コーディングはもちろん、 Web の製作には欠かせないヒアリングや企画についても Chapter 5 で触れているので、卒制などにこれから入るよという人にもオススメ。  
+
 ### 1 冊ですべて身につく HTML & CSS と Web デザイン入門講座
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=syabu9190c-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4797398892&linkId=964be3f92847d986aa2a59e2d3712a8d"></iframe>
 
 - 2 ～ 3 ヵ月目の人向け
 - 著者: Mana
-- STUDIO 蔵書: 無
+- STUDIO 蔵書: 有
 
 Web のデザインの制作サイドの学習に特化した 1 冊です。  
 手を動かして学ぶのであれば、こちらがオススメ。  
@@ -334,6 +347,17 @@ JavaScript に初めて触れる方にオススメの 1 冊。
 
 JavaScript のやりたいことからコードを逆引きできるレシピ集。  
 コードを書くことに慣れてきて、何を使えばこれができるんだろうという時に辞典として使えます。
+
+### JavaScript 本格入門 [改訂 3 版]
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=syabu9190c-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4297132885&linkId=0a01c488d54874d08978ffa461ee44f2"></iframe>
+
+- JavaScript をもっと理解したい人向け
+- 著者: 山田祥寛
+- スタジオ蔵書: 無
+
+JavaScript は一通り勉強したけど、結局なんとなく使っちゃう人が基本をしっかり理解するのにオススメ。  
+基本文法や基本的な仕様、今モダンとされる開発環境やテストまで、今、最新の JavaScript を網羅した1冊。  
 
 ## WordPress & PHP
 
