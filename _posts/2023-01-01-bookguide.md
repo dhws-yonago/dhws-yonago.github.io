@@ -31,7 +31,7 @@ tags:
   - [プロを目指す人の HTML\&CSSS の教科書](#プロを目指す人の-htmlcsss-の教科書)
   - [教科書では教えてくれない HTML\&CSS](#教科書では教えてくれない-htmlcss)
   - [作って学ぶ HTML\&CSS モダンコーディング](#作って学ぶ-htmlcss-モダンコーディング)
-  - [HTML+CSS コーディングの教科書](#htmlcss-コーディングの教科書)
+  - [HTML+CSS コーディングの強化書](#htmlcss-コーディングの強化書)
   - [武器になる HTML](#武器になる-html)
   - [ざっくりつかむ CSS 設計](#ざっくりつかむ-css-設計)
   - [現場のプロから学ぶ CSS コーディングバイブル](#現場のプロから学ぶ-css-コーディングバイブル)
@@ -244,7 +244,7 @@ HTML や CSS をゼロから書く際にどこから手をつけるか非常に�
 Internet Explorer を除外したモダンブラウザで使える CSS をフルに使ったレイアウトを学べます。  
 レイアウト別の早見表も便利!
 
-### HTML+CSS コーディングの教科書
+### HTML+CSS コーディングの強化書
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=syabu9190c-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4295202088&linkId=892e33253e49d7503fa5626af43ec3f2"></iframe>
 
